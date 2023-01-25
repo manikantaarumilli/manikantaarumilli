@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manikantaarumilli
 - 👀 I’m interested in  learning new things
-- 🌱 I’m currently learning Applied computer science in NWMSu
+- 🌱 I’m currently learning Applied computer science in NWMSU
 - 💞️ I’m looking to collaborate on Business
 - 📫 How to reach me    manikantaarumilli1@gmail.com
 
